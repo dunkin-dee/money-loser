@@ -1,0 +1,1730 @@
+{
+    "AUDCAD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1060",
+                "false_positive": "235",
+                "missed_positive": "938"
+            },
+            "0.45": {
+                "positive": "871",
+                "false_positive": "135",
+                "missed_positive": "1127"
+            },
+            "0.5": {
+                "positive": "689",
+                "false_positive": "73",
+                "missed_positive": "1309"
+            },
+            "0.55": {
+                "positive": "520",
+                "false_positive": "35",
+                "missed_positive": "1478"
+            },
+            "0.6": {
+                "positive": "363",
+                "false_positive": "23",
+                "missed_positive": "1635"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "930",
+                "false_positive": "202",
+                "missed_positive": "1141"
+            },
+            "0.45": {
+                "positive": "691",
+                "false_positive": "84",
+                "missed_positive": "1380"
+            },
+            "0.5": {
+                "positive": "484",
+                "false_positive": "34",
+                "missed_positive": "1587"
+            },
+            "0.55": {
+                "positive": "324",
+                "false_positive": "15",
+                "missed_positive": "1747"
+            },
+            "0.6": {
+                "positive": "197",
+                "false_positive": "8",
+                "missed_positive": "1874"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0016354411764705884",
+            "Mean Absolute Error": "0.001554857970071573"
+        },
+        "Daily": {
+            "Average candle": "0.0039049883990719277",
+            "Mean Absolute Error": "0.003915584570765645"
+        }
+    },
+    "AUDCHF": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "807",
+                "false_positive": "176",
+                "missed_positive": "902"
+            },
+            "0.45": {
+                "positive": "643",
+                "false_positive": "97",
+                "missed_positive": "1066"
+            },
+            "0.5": {
+                "positive": "477",
+                "false_positive": "55",
+                "missed_positive": "1232"
+            },
+            "0.55": {
+                "positive": "346",
+                "false_positive": "30",
+                "missed_positive": "1363"
+            },
+            "0.6": {
+                "positive": "232",
+                "false_positive": "19",
+                "missed_positive": "1477"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "998",
+                "false_positive": "231",
+                "missed_positive": "848"
+            },
+            "0.45": {
+                "positive": "829",
+                "false_positive": "136",
+                "missed_positive": "1017"
+            },
+            "0.5": {
+                "positive": "660",
+                "false_positive": "78",
+                "missed_positive": "1186"
+            },
+            "0.55": {
+                "positive": "490",
+                "false_positive": "38",
+                "missed_positive": "1356"
+            },
+            "0.6": {
+                "positive": "351",
+                "false_positive": "21",
+                "missed_positive": "1495"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0017821221353821707",
+            "Mean Absolute Error": "0.0017210987417218538"
+        },
+        "Daily": {
+            "Average candle": "0.004523818310858765",
+            "Mean Absolute Error": "0.004604465248226958"
+        }
+    },
+    "AUDJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "459",
+                "false_positive": "108",
+                "missed_positive": "1003"
+            },
+            "0.45": {
+                "positive": "318",
+                "false_positive": "51",
+                "missed_positive": "1144"
+            },
+            "0.5": {
+                "positive": "217",
+                "false_positive": "24",
+                "missed_positive": "1245"
+            },
+            "0.55": {
+                "positive": "128",
+                "false_positive": "13",
+                "missed_positive": "1334"
+            },
+            "0.6": {
+                "positive": "74",
+                "false_positive": "8",
+                "missed_positive": "1388"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "832",
+                "false_positive": "160",
+                "missed_positive": "840"
+            },
+            "0.45": {
+                "positive": "655",
+                "false_positive": "90",
+                "missed_positive": "1017"
+            },
+            "0.5": {
+                "positive": "505",
+                "false_positive": "50",
+                "missed_positive": "1167"
+            },
+            "0.55": {
+                "positive": "376",
+                "false_positive": "31",
+                "missed_positive": "1296"
+            },
+            "0.6": {
+                "positive": "251",
+                "false_positive": "17",
+                "missed_positive": "1421"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.20931677558110676",
+            "Mean Absolute Error": "0.20546967535153063"
+        },
+        "Daily": {
+            "Average candle": "0.5346944509482555",
+            "Mean Absolute Error": "0.5310390760233926"
+        }
+    },
+    "AUDNZD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "597",
+                "false_positive": "168",
+                "missed_positive": "1713"
+            },
+            "0.45": {
+                "positive": "342",
+                "false_positive": "64",
+                "missed_positive": "1968"
+            },
+            "0.5": {
+                "positive": "198",
+                "false_positive": "25",
+                "missed_positive": "2112"
+            },
+            "0.55": {
+                "positive": "99",
+                "false_positive": "10",
+                "missed_positive": "2211"
+            },
+            "0.6": {
+                "positive": "51",
+                "false_positive": "3",
+                "missed_positive": "2259"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1247",
+                "false_positive": "437",
+                "missed_positive": "1497"
+            },
+            "0.45": {
+                "positive": "922",
+                "false_positive": "217",
+                "missed_positive": "1822"
+            },
+            "0.5": {
+                "positive": "687",
+                "false_positive": "96",
+                "missed_positive": "2057"
+            },
+            "0.55": {
+                "positive": "473",
+                "false_positive": "38",
+                "missed_positive": "2271"
+            },
+            "0.6": {
+                "positive": "291",
+                "false_positive": "19",
+                "missed_positive": "2453"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.001638735754041877",
+            "Mean Absolute Error": "0.0015877325750883408"
+        },
+        "Daily": {
+            "Average candle": "0.00387050023596036",
+            "Mean Absolute Error": "0.0036288076650943185"
+        }
+    },
+    "AUDUSD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "764",
+                "false_positive": "186",
+                "missed_positive": "1366"
+            },
+            "0.45": {
+                "positive": "540",
+                "false_positive": "85",
+                "missed_positive": "1590"
+            },
+            "0.5": {
+                "positive": "370",
+                "false_positive": "36",
+                "missed_positive": "1760"
+            },
+            "0.55": {
+                "positive": "230",
+                "false_positive": "20",
+                "missed_positive": "1900"
+            },
+            "0.6": {
+                "positive": "147",
+                "false_positive": "11",
+                "missed_positive": "1983"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1378",
+                "false_positive": "320",
+                "missed_positive": "764"
+            },
+            "0.45": {
+                "positive": "1170",
+                "false_positive": "194",
+                "missed_positive": "972"
+            },
+            "0.5": {
+                "positive": "961",
+                "false_positive": "126",
+                "missed_positive": "1181"
+            },
+            "0.55": {
+                "positive": "756",
+                "false_positive": "68",
+                "missed_positive": "1386"
+            },
+            "0.6": {
+                "positive": "562",
+                "false_positive": "40",
+                "missed_positive": "1580"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0017458090542357687",
+            "Mean Absolute Error": "0.0017472112242819372"
+        },
+        "Daily": {
+            "Average candle": "0.0044848175519630485",
+            "Mean Absolute Error": "0.004356788914549668"
+        }
+    },
+    "CADCHF": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1208",
+                "false_positive": "213",
+                "missed_positive": "826"
+            },
+            "0.45": {
+                "positive": "1032",
+                "false_positive": "133",
+                "missed_positive": "1002"
+            },
+            "0.5": {
+                "positive": "842",
+                "false_positive": "80",
+                "missed_positive": "1192"
+            },
+            "0.55": {
+                "positive": "672",
+                "false_positive": "50",
+                "missed_positive": "1362"
+            },
+            "0.6": {
+                "positive": "517",
+                "false_positive": "22",
+                "missed_positive": "1517"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1381",
+                "false_positive": "275",
+                "missed_positive": "898"
+            },
+            "0.45": {
+                "positive": "1183",
+                "false_positive": "184",
+                "missed_positive": "1096"
+            },
+            "0.5": {
+                "positive": "990",
+                "false_positive": "121",
+                "missed_positive": "1289"
+            },
+            "0.55": {
+                "positive": "791",
+                "false_positive": "73",
+                "missed_positive": "1488"
+            },
+            "0.6": {
+                "positive": "625",
+                "false_positive": "48",
+                "missed_positive": "1654"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.001575575189325641",
+            "Mean Absolute Error": "0.001647200766283526"
+        },
+        "Daily": {
+            "Average candle": "0.00429782451923077",
+            "Mean Absolute Error": "0.004235802163461521"
+        }
+    },
+    "CADJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "193",
+                "false_positive": "24",
+                "missed_positive": "607"
+            },
+            "0.45": {
+                "positive": "159",
+                "false_positive": "18",
+                "missed_positive": "641"
+            },
+            "0.5": {
+                "positive": "115",
+                "false_positive": "12",
+                "missed_positive": "685"
+            },
+            "0.55": {
+                "positive": "87",
+                "false_positive": "6",
+                "missed_positive": "713"
+            },
+            "0.6": {
+                "positive": "64",
+                "false_positive": "3",
+                "missed_positive": "736"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "288",
+                "false_positive": "46",
+                "missed_positive": "772"
+            },
+            "0.45": {
+                "positive": "207",
+                "false_positive": "25",
+                "missed_positive": "853"
+            },
+            "0.5": {
+                "positive": "146",
+                "false_positive": "11",
+                "missed_positive": "914"
+            },
+            "0.55": {
+                "positive": "100",
+                "false_positive": "5",
+                "missed_positive": "960"
+            },
+            "0.6": {
+                "positive": "54",
+                "false_positive": "3",
+                "missed_positive": "1006"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.19994619445666528",
+            "Mean Absolute Error": "0.20316380994280642"
+        },
+        "Daily": {
+            "Average candle": "0.5396825902335457",
+            "Mean Absolute Error": "0.563906816976127"
+        }
+    },
+    "CHFJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "560",
+                "false_positive": "114",
+                "missed_positive": "707"
+            },
+            "0.45": {
+                "positive": "448",
+                "false_positive": "67",
+                "missed_positive": "819"
+            },
+            "0.5": {
+                "positive": "368",
+                "false_positive": "44",
+                "missed_positive": "899"
+            },
+            "0.55": {
+                "positive": "289",
+                "false_positive": "29",
+                "missed_positive": "978"
+            },
+            "0.6": {
+                "positive": "216",
+                "false_positive": "14",
+                "missed_positive": "1051"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "647",
+                "false_positive": "126",
+                "missed_positive": "796"
+            },
+            "0.45": {
+                "positive": "533",
+                "false_positive": "67",
+                "missed_positive": "910"
+            },
+            "0.5": {
+                "positive": "391",
+                "false_positive": "41",
+                "missed_positive": "1052"
+            },
+            "0.55": {
+                "positive": "274",
+                "false_positive": "19",
+                "missed_positive": "1169"
+            },
+            "0.6": {
+                "positive": "211",
+                "false_positive": "13",
+                "missed_positive": "1232"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.18179907334629544",
+            "Mean Absolute Error": "0.18156021509824227"
+        },
+        "Daily": {
+            "Average candle": "0.4602120572366878",
+            "Mean Absolute Error": "0.4552027080890982"
+        }
+    },
+    "EURAUD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "772",
+                "false_positive": "135",
+                "missed_positive": "844"
+            },
+            "0.45": {
+                "positive": "643",
+                "false_positive": "75",
+                "missed_positive": "973"
+            },
+            "0.5": {
+                "positive": "503",
+                "false_positive": "38",
+                "missed_positive": "1113"
+            },
+            "0.55": {
+                "positive": "375",
+                "false_positive": "21",
+                "missed_positive": "1241"
+            },
+            "0.6": {
+                "positive": "259",
+                "false_positive": "9",
+                "missed_positive": "1357"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "631",
+                "false_positive": "119",
+                "missed_positive": "864"
+            },
+            "0.45": {
+                "positive": "482",
+                "false_positive": "61",
+                "missed_positive": "1013"
+            },
+            "0.5": {
+                "positive": "357",
+                "false_positive": "29",
+                "missed_positive": "1138"
+            },
+            "0.55": {
+                "positive": "257",
+                "false_positive": "12",
+                "missed_positive": "1238"
+            },
+            "0.6": {
+                "positive": "174",
+                "false_positive": "3",
+                "missed_positive": "1321"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0028007976812540816",
+            "Mean Absolute Error": "0.002775348653061222"
+        },
+        "Daily": {
+            "Average candle": "0.007165943942552698",
+            "Mean Absolute Error": "0.006862795023148129"
+        }
+    },
+    "EURCAD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1286",
+                "false_positive": "209",
+                "missed_positive": "756"
+            },
+            "0.45": {
+                "positive": "1117",
+                "false_positive": "131",
+                "missed_positive": "925"
+            },
+            "0.5": {
+                "positive": "954",
+                "false_positive": "81",
+                "missed_positive": "1088"
+            },
+            "0.55": {
+                "positive": "785",
+                "false_positive": "49",
+                "missed_positive": "1257"
+            },
+            "0.6": {
+                "positive": "610",
+                "false_positive": "23",
+                "missed_positive": "1432"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1039",
+                "false_positive": "188",
+                "missed_positive": "837"
+            },
+            "0.45": {
+                "positive": "878",
+                "false_positive": "114",
+                "missed_positive": "998"
+            },
+            "0.5": {
+                "positive": "714",
+                "false_positive": "76",
+                "missed_positive": "1162"
+            },
+            "0.55": {
+                "positive": "563",
+                "false_positive": "50",
+                "missed_positive": "1313"
+            },
+            "0.6": {
+                "positive": "422",
+                "false_positive": "20",
+                "missed_positive": "1454"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.002385956011988716",
+            "Mean Absolute Error": "0.0023493517408550014"
+        },
+        "Daily": {
+            "Average candle": "0.006325528629128056",
+            "Mean Absolute Error": "0.0058320013064133164"
+        }
+    },
+    "EURCHF": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "932",
+                "false_positive": "195",
+                "missed_positive": "878"
+            },
+            "0.45": {
+                "positive": "767",
+                "false_positive": "105",
+                "missed_positive": "1043"
+            },
+            "0.5": {
+                "positive": "605",
+                "false_positive": "65",
+                "missed_positive": "1205"
+            },
+            "0.55": {
+                "positive": "485",
+                "false_positive": "32",
+                "missed_positive": "1325"
+            },
+            "0.6": {
+                "positive": "370",
+                "false_positive": "18",
+                "missed_positive": "1440"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "815",
+                "false_positive": "212",
+                "missed_positive": "1019"
+            },
+            "0.45": {
+                "positive": "629",
+                "false_positive": "108",
+                "missed_positive": "1205"
+            },
+            "0.5": {
+                "positive": "491",
+                "false_positive": "53",
+                "missed_positive": "1343"
+            },
+            "0.55": {
+                "positive": "350",
+                "false_positive": "31",
+                "missed_positive": "1484"
+            },
+            "0.6": {
+                "positive": "236",
+                "false_positive": "14",
+                "missed_positive": "1598"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.001204297973193854",
+            "Mean Absolute Error": "0.0012852943411644571"
+        },
+        "Daily": {
+            "Average candle": "0.0031308642261353103",
+            "Mean Absolute Error": "0.0032247730324074016"
+        }
+    },
+    "EURGBP": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1042",
+                "false_positive": "242",
+                "missed_positive": "1338"
+            },
+            "0.45": {
+                "positive": "808",
+                "false_positive": "123",
+                "missed_positive": "1572"
+            },
+            "0.5": {
+                "positive": "636",
+                "false_positive": "61",
+                "missed_positive": "1744"
+            },
+            "0.55": {
+                "positive": "453",
+                "false_positive": "32",
+                "missed_positive": "1927"
+            },
+            "0.6": {
+                "positive": "302",
+                "false_positive": "19",
+                "missed_positive": "2078"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1058",
+                "false_positive": "246",
+                "missed_positive": "1106"
+            },
+            "0.45": {
+                "positive": "850",
+                "false_positive": "134",
+                "missed_positive": "1314"
+            },
+            "0.5": {
+                "positive": "688",
+                "false_positive": "72",
+                "missed_positive": "1476"
+            },
+            "0.55": {
+                "positive": "535",
+                "false_positive": "40",
+                "missed_positive": "1629"
+            },
+            "0.6": {
+                "positive": "407",
+                "false_positive": "13",
+                "missed_positive": "1757"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0011481641230719005",
+            "Mean Absolute Error": "0.001129697490820069"
+        },
+        "Daily": {
+            "Average candle": "0.003055502890173411",
+            "Mean Absolute Error": "0.002960700000000011"
+        }
+    },
+    "EURJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1023",
+                "false_positive": "282",
+                "missed_positive": "1266"
+            },
+            "0.45": {
+                "positive": "792",
+                "false_positive": "158",
+                "missed_positive": "1497"
+            },
+            "0.5": {
+                "positive": "564",
+                "false_positive": "82",
+                "missed_positive": "1725"
+            },
+            "0.55": {
+                "positive": "390",
+                "false_positive": "44",
+                "missed_positive": "1899"
+            },
+            "0.6": {
+                "positive": "232",
+                "false_positive": "23",
+                "missed_positive": "2057"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1089",
+                "false_positive": "241",
+                "missed_positive": "1238"
+            },
+            "0.45": {
+                "positive": "836",
+                "false_positive": "158",
+                "missed_positive": "1491"
+            },
+            "0.5": {
+                "positive": "571",
+                "false_positive": "80",
+                "missed_positive": "1756"
+            },
+            "0.55": {
+                "positive": "359",
+                "false_positive": "35",
+                "missed_positive": "1968"
+            },
+            "0.6": {
+                "positive": "218",
+                "false_positive": "23",
+                "missed_positive": "2109"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.24540297473512626",
+            "Mean Absolute Error": "0.2492762000815002"
+        },
+        "Daily": {
+            "Average candle": "0.6345831408775979",
+            "Mean Absolute Error": "0.6603162240184804"
+        }
+    },
+    "EURUSD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1346",
+                "false_positive": "326",
+                "missed_positive": "1039"
+            },
+            "0.45": {
+                "positive": "1102",
+                "false_positive": "194",
+                "missed_positive": "1283"
+            },
+            "0.5": {
+                "positive": "871",
+                "false_positive": "110",
+                "missed_positive": "1514"
+            },
+            "0.55": {
+                "positive": "664",
+                "false_positive": "57",
+                "missed_positive": "1721"
+            },
+            "0.6": {
+                "positive": "459",
+                "false_positive": "28",
+                "missed_positive": "1926"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1333",
+                "false_positive": "306",
+                "missed_positive": "1019"
+            },
+            "0.45": {
+                "positive": "1127",
+                "false_positive": "194",
+                "missed_positive": "1225"
+            },
+            "0.5": {
+                "positive": "935",
+                "false_positive": "130",
+                "missed_positive": "1417"
+            },
+            "0.55": {
+                "positive": "722",
+                "false_positive": "88",
+                "missed_positive": "1630"
+            },
+            "0.6": {
+                "positive": "528",
+                "false_positive": "38",
+                "missed_positive": "1824"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0019429139828781089",
+            "Mean Absolute Error": "0.00196035428047289"
+        },
+        "Daily": {
+            "Average candle": "0.005321376443418012",
+            "Mean Absolute Error": "0.005372429676674374"
+        }
+    },
+    "GBPAUD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1171",
+                "false_positive": "370",
+                "missed_positive": "1313"
+            },
+            "0.45": {
+                "positive": "910",
+                "false_positive": "201",
+                "missed_positive": "1574"
+            },
+            "0.5": {
+                "positive": "687",
+                "false_positive": "117",
+                "missed_positive": "1797"
+            },
+            "0.55": {
+                "positive": "470",
+                "false_positive": "66",
+                "missed_positive": "2014"
+            },
+            "0.6": {
+                "positive": "303",
+                "false_positive": "33",
+                "missed_positive": "2181"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1166",
+                "false_positive": "369",
+                "missed_positive": "1464"
+            },
+            "0.45": {
+                "positive": "867",
+                "false_positive": "180",
+                "missed_positive": "1763"
+            },
+            "0.5": {
+                "positive": "615",
+                "false_positive": "91",
+                "missed_positive": "2015"
+            },
+            "0.55": {
+                "positive": "400",
+                "false_positive": "44",
+                "missed_positive": "2230"
+            },
+            "0.6": {
+                "positive": "242",
+                "false_positive": "23",
+                "missed_positive": "2388"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.003704967535436672",
+            "Mean Absolute Error": "0.0035872165294924653"
+        },
+        "Daily": {
+            "Average candle": "0.009402065637065636",
+            "Mean Absolute Error": "0.00881072121212114"
+        }
+    },
+    "GBPCAD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1186",
+                "false_positive": "285",
+                "missed_positive": "1330"
+            },
+            "0.45": {
+                "positive": "972",
+                "false_positive": "141",
+                "missed_positive": "1544"
+            },
+            "0.5": {
+                "positive": "747",
+                "false_positive": "67",
+                "missed_positive": "1769"
+            },
+            "0.55": {
+                "positive": "572",
+                "false_positive": "37",
+                "missed_positive": "1944"
+            },
+            "0.6": {
+                "positive": "414",
+                "false_positive": "18",
+                "missed_positive": "2102"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "848",
+                "false_positive": "233",
+                "missed_positive": "1672"
+            },
+            "0.45": {
+                "positive": "627",
+                "false_positive": "104",
+                "missed_positive": "1893"
+            },
+            "0.5": {
+                "positive": "472",
+                "false_positive": "41",
+                "missed_positive": "2048"
+            },
+            "0.55": {
+                "positive": "316",
+                "false_positive": "16",
+                "missed_positive": "2204"
+            },
+            "0.6": {
+                "positive": "203",
+                "false_positive": "6",
+                "missed_positive": "2317"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.003012041217327728",
+            "Mean Absolute Error": "0.003043123120859029"
+        },
+        "Daily": {
+            "Average candle": "0.007760556473829199",
+            "Mean Absolute Error": "0.008044439807162494"
+        }
+    },
+    "GBPCHF": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1097",
+                "false_positive": "176",
+                "missed_positive": "765"
+            },
+            "0.45": {
+                "positive": "950",
+                "false_positive": "92",
+                "missed_positive": "912"
+            },
+            "0.5": {
+                "positive": "788",
+                "false_positive": "62",
+                "missed_positive": "1074"
+            },
+            "0.55": {
+                "positive": "632",
+                "false_positive": "35",
+                "missed_positive": "1230"
+            },
+            "0.6": {
+                "positive": "489",
+                "false_positive": "24",
+                "missed_positive": "1373"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1146",
+                "false_positive": "174",
+                "missed_positive": "843"
+            },
+            "0.45": {
+                "positive": "978",
+                "false_positive": "90",
+                "missed_positive": "1011"
+            },
+            "0.5": {
+                "positive": "804",
+                "false_positive": "53",
+                "missed_positive": "1185"
+            },
+            "0.55": {
+                "positive": "645",
+                "false_positive": "28",
+                "missed_positive": "1344"
+            },
+            "0.6": {
+                "positive": "495",
+                "false_positive": "14",
+                "missed_positive": "1494"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.002529865149078312",
+            "Mean Absolute Error": "0.002495329134020616"
+        },
+        "Daily": {
+            "Average candle": "0.006806717360786152",
+            "Mean Absolute Error": "0.0071122286549707165"
+        }
+    },
+    "GBPJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1238",
+                "false_positive": "308",
+                "missed_positive": "1117"
+            },
+            "0.45": {
+                "positive": "1008",
+                "false_positive": "169",
+                "missed_positive": "1347"
+            },
+            "0.5": {
+                "positive": "768",
+                "false_positive": "97",
+                "missed_positive": "1587"
+            },
+            "0.55": {
+                "positive": "569",
+                "false_positive": "57",
+                "missed_positive": "1786"
+            },
+            "0.6": {
+                "positive": "380",
+                "false_positive": "27",
+                "missed_positive": "1975"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1323",
+                "false_positive": "261",
+                "missed_positive": "1204"
+            },
+            "0.45": {
+                "positive": "1042",
+                "false_positive": "129",
+                "missed_positive": "1485"
+            },
+            "0.5": {
+                "positive": "811",
+                "false_positive": "66",
+                "missed_positive": "1716"
+            },
+            "0.55": {
+                "positive": "581",
+                "false_positive": "26",
+                "missed_positive": "1946"
+            },
+            "0.6": {
+                "positive": "351",
+                "false_positive": "8",
+                "missed_positive": "2176"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.3301811065356546",
+            "Mean Absolute Error": "0.3324427496942514"
+        },
+        "Daily": {
+            "Average candle": "0.8567165664044423",
+            "Mean Absolute Error": "0.9080415722543306"
+        }
+    },
+    "GBPNZD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1008",
+                "false_positive": "425",
+                "missed_positive": "1337"
+            },
+            "0.45": {
+                "positive": "779",
+                "false_positive": "221",
+                "missed_positive": "1566"
+            },
+            "0.5": {
+                "positive": "561",
+                "false_positive": "106",
+                "missed_positive": "1784"
+            },
+            "0.55": {
+                "positive": "389",
+                "false_positive": "53",
+                "missed_positive": "1956"
+            },
+            "0.6": {
+                "positive": "262",
+                "false_positive": "28",
+                "missed_positive": "2083"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1051",
+                "false_positive": "378",
+                "missed_positive": "1567"
+            },
+            "0.45": {
+                "positive": "756",
+                "false_positive": "179",
+                "missed_positive": "1862"
+            },
+            "0.5": {
+                "positive": "507",
+                "false_positive": "89",
+                "missed_positive": "2111"
+            },
+            "0.55": {
+                "positive": "350",
+                "false_positive": "39",
+                "missed_positive": "2268"
+            },
+            "0.6": {
+                "positive": "216",
+                "false_positive": "16",
+                "missed_positive": "2402"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0037923345795501757",
+            "Mean Absolute Error": "0.0037546027588252944"
+        },
+        "Daily": {
+            "Average candle": "0.009316187255250978",
+            "Mean Absolute Error": "0.009394116725978683"
+        }
+    },
+    "GBPUSD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1346",
+                "false_positive": "317",
+                "missed_positive": "1492"
+            },
+            "0.45": {
+                "positive": "986",
+                "false_positive": "139",
+                "missed_positive": "1852"
+            },
+            "0.5": {
+                "positive": "711",
+                "false_positive": "51",
+                "missed_positive": "2127"
+            },
+            "0.55": {
+                "positive": "471",
+                "false_positive": "18",
+                "missed_positive": "2367"
+            },
+            "0.6": {
+                "positive": "306",
+                "false_positive": "8",
+                "missed_positive": "2532"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1637",
+                "false_positive": "415",
+                "missed_positive": "1280"
+            },
+            "0.45": {
+                "positive": "1353",
+                "false_positive": "223",
+                "missed_positive": "1564"
+            },
+            "0.5": {
+                "positive": "1061",
+                "false_positive": "121",
+                "missed_positive": "1856"
+            },
+            "0.55": {
+                "positive": "825",
+                "false_positive": "61",
+                "missed_positive": "2092"
+            },
+            "0.6": {
+                "positive": "610",
+                "false_positive": "32",
+                "missed_positive": "2307"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0024187753688157143",
+            "Mean Absolute Error": "0.002473556153219228"
+        },
+        "Daily": {
+            "Average candle": "0.006548863478863477",
+            "Mean Absolute Error": "0.006561377136258687"
+        }
+    },
+    "NZDCAD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1698",
+                "false_positive": "494",
+                "missed_positive": "1222"
+            },
+            "0.45": {
+                "positive": "1352",
+                "false_positive": "260",
+                "missed_positive": "1568"
+            },
+            "0.5": {
+                "positive": "1017",
+                "false_positive": "121",
+                "missed_positive": "1903"
+            },
+            "0.55": {
+                "positive": "724",
+                "false_positive": "63",
+                "missed_positive": "2196"
+            },
+            "0.6": {
+                "positive": "459",
+                "false_positive": "21",
+                "missed_positive": "2461"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1627",
+                "false_positive": "525",
+                "missed_positive": "1245"
+            },
+            "0.45": {
+                "positive": "1339",
+                "false_positive": "278",
+                "missed_positive": "1533"
+            },
+            "0.5": {
+                "positive": "1029",
+                "false_positive": "159",
+                "missed_positive": "1843"
+            },
+            "0.55": {
+                "positive": "758",
+                "false_positive": "86",
+                "missed_positive": "2114"
+            },
+            "0.6": {
+                "positive": "527",
+                "false_positive": "36",
+                "missed_positive": "2345"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0016011735795324056",
+            "Mean Absolute Error": "0.0015518433295063144"
+        },
+        "Daily": {
+            "Average candle": "0.0037525870646766156",
+            "Mean Absolute Error": "0.003771245165745871"
+        }
+    },
+    "NZDCHF": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1033",
+                "false_positive": "230",
+                "missed_positive": "1050"
+            },
+            "0.45": {
+                "positive": "819",
+                "false_positive": "134",
+                "missed_positive": "1264"
+            },
+            "0.5": {
+                "positive": "652",
+                "false_positive": "78",
+                "missed_positive": "1431"
+            },
+            "0.55": {
+                "positive": "464",
+                "false_positive": "38",
+                "missed_positive": "1619"
+            },
+            "0.6": {
+                "positive": "345",
+                "false_positive": "20",
+                "missed_positive": "1738"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1048",
+                "false_positive": "229",
+                "missed_positive": "1153"
+            },
+            "0.45": {
+                "positive": "786",
+                "false_positive": "121",
+                "missed_positive": "1415"
+            },
+            "0.5": {
+                "positive": "573",
+                "false_positive": "69",
+                "missed_positive": "1628"
+            },
+            "0.55": {
+                "positive": "379",
+                "false_positive": "29",
+                "missed_positive": "1822"
+            },
+            "0.6": {
+                "positive": "229",
+                "false_positive": "11",
+                "missed_positive": "1972"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0016040387338418667",
+            "Mean Absolute Error": "0.0015735892669559244"
+        },
+        "Daily": {
+            "Average candle": "0.004018546255506606",
+            "Mean Absolute Error": "0.00395794814305366"
+        }
+    },
+    "NZDJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "565",
+                "false_positive": "137",
+                "missed_positive": "1148"
+            },
+            "0.45": {
+                "positive": "402",
+                "false_positive": "72",
+                "missed_positive": "1311"
+            },
+            "0.5": {
+                "positive": "265",
+                "false_positive": "38",
+                "missed_positive": "1448"
+            },
+            "0.55": {
+                "positive": "173",
+                "false_positive": "19",
+                "missed_positive": "1540"
+            },
+            "0.6": {
+                "positive": "117",
+                "false_positive": "8",
+                "missed_positive": "1596"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "773",
+                "false_positive": "180",
+                "missed_positive": "979"
+            },
+            "0.45": {
+                "positive": "605",
+                "false_positive": "108",
+                "missed_positive": "1147"
+            },
+            "0.5": {
+                "positive": "449",
+                "false_positive": "60",
+                "missed_positive": "1303"
+            },
+            "0.55": {
+                "positive": "324",
+                "false_positive": "37",
+                "missed_positive": "1428"
+            },
+            "0.6": {
+                "positive": "218",
+                "false_positive": "18",
+                "missed_positive": "1534"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.19202804025842746",
+            "Mean Absolute Error": "0.19074743792573126"
+        },
+        "Daily": {
+            "Average candle": "0.48404469717006077",
+            "Mean Absolute Error": "0.511742959048876"
+        }
+    },
+    "NZDUSD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "845",
+                "false_positive": "204",
+                "missed_positive": "955"
+            },
+            "0.45": {
+                "positive": "668",
+                "false_positive": "109",
+                "missed_positive": "1132"
+            },
+            "0.5": {
+                "positive": "521",
+                "false_positive": "65",
+                "missed_positive": "1279"
+            },
+            "0.55": {
+                "positive": "380",
+                "false_positive": "34",
+                "missed_positive": "1420"
+            },
+            "0.6": {
+                "positive": "249",
+                "false_positive": "24",
+                "missed_positive": "1551"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "899",
+                "false_positive": "207",
+                "missed_positive": "896"
+            },
+            "0.45": {
+                "positive": "765",
+                "false_positive": "121",
+                "missed_positive": "1030"
+            },
+            "0.5": {
+                "positive": "599",
+                "false_positive": "69",
+                "missed_positive": "1196"
+            },
+            "0.55": {
+                "positive": "452",
+                "false_positive": "38",
+                "missed_positive": "1343"
+            },
+            "0.6": {
+                "positive": "306",
+                "false_positive": "20",
+                "missed_positive": "1489"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0016135284049229766",
+            "Mean Absolute Error": "0.0015577018744906209"
+        },
+        "Daily": {
+            "Average candle": "0.00414012243012243",
+            "Mean Absolute Error": "0.0040543802540415706"
+        }
+    },
+    "USDCAD": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1355",
+                "false_positive": "304",
+                "missed_positive": "918"
+            },
+            "0.45": {
+                "positive": "1150",
+                "false_positive": "175",
+                "missed_positive": "1123"
+            },
+            "0.5": {
+                "positive": "961",
+                "false_positive": "111",
+                "missed_positive": "1312"
+            },
+            "0.55": {
+                "positive": "757",
+                "false_positive": "63",
+                "missed_positive": "1516"
+            },
+            "0.6": {
+                "positive": "586",
+                "false_positive": "39",
+                "missed_positive": "1687"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "961",
+                "false_positive": "185",
+                "missed_positive": "961"
+            },
+            "0.45": {
+                "positive": "759",
+                "false_positive": "99",
+                "missed_positive": "1163"
+            },
+            "0.5": {
+                "positive": "574",
+                "false_positive": "48",
+                "missed_positive": "1348"
+            },
+            "0.55": {
+                "positive": "398",
+                "false_positive": "26",
+                "missed_positive": "1524"
+            },
+            "0.6": {
+                "positive": "280",
+                "false_positive": "12",
+                "missed_positive": "1642"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0018062700676391482",
+            "Mean Absolute Error": "0.0017951881645956378"
+        },
+        "Daily": {
+            "Average candle": "0.00478916878319095",
+            "Mean Absolute Error": "0.004818257785467161"
+        }
+    },
+    "USDCHF": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "1068",
+                "false_positive": "234",
+                "missed_positive": "1127"
+            },
+            "0.45": {
+                "positive": "882",
+                "false_positive": "127",
+                "missed_positive": "1313"
+            },
+            "0.5": {
+                "positive": "668",
+                "false_positive": "61",
+                "missed_positive": "1527"
+            },
+            "0.55": {
+                "positive": "488",
+                "false_positive": "38",
+                "missed_positive": "1707"
+            },
+            "0.6": {
+                "positive": "339",
+                "false_positive": "23",
+                "missed_positive": "1856"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "1189",
+                "false_positive": "300",
+                "missed_positive": "1003"
+            },
+            "0.45": {
+                "positive": "1005",
+                "false_positive": "182",
+                "missed_positive": "1187"
+            },
+            "0.5": {
+                "positive": "802",
+                "false_positive": "101",
+                "missed_positive": "1390"
+            },
+            "0.55": {
+                "positive": "609",
+                "false_positive": "51",
+                "missed_positive": "1583"
+            },
+            "0.6": {
+                "positive": "438",
+                "false_positive": "27",
+                "missed_positive": "1754"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.0016209443651925813",
+            "Mean Absolute Error": "0.0016243866721010868"
+        },
+        "Daily": {
+            "Average candle": "0.004471387925052049",
+            "Mean Absolute Error": "0.004233661965317922"
+        }
+    },
+    "USDJPY": {
+        "Hourly UP": {
+            "0.4": {
+                "positive": "584",
+                "false_positive": "157",
+                "missed_positive": "1385"
+            },
+            "0.45": {
+                "positive": "396",
+                "false_positive": "84",
+                "missed_positive": "1573"
+            },
+            "0.5": {
+                "positive": "270",
+                "false_positive": "48",
+                "missed_positive": "1699"
+            },
+            "0.55": {
+                "positive": "172",
+                "false_positive": "20",
+                "missed_positive": "1797"
+            },
+            "0.6": {
+                "positive": "105",
+                "false_positive": "11",
+                "missed_positive": "1864"
+            }
+        },
+        "Hourly DOWN": {
+            "0.4": {
+                "positive": "817",
+                "false_positive": "268",
+                "missed_positive": "1145"
+            },
+            "0.45": {
+                "positive": "643",
+                "false_positive": "167",
+                "missed_positive": "1319"
+            },
+            "0.5": {
+                "positive": "465",
+                "false_positive": "95",
+                "missed_positive": "1497"
+            },
+            "0.55": {
+                "positive": "325",
+                "false_positive": "57",
+                "missed_positive": "1637"
+            },
+            "0.6": {
+                "positive": "235",
+                "false_positive": "30",
+                "missed_positive": "1727"
+            }
+        },
+        "4 Hours": {
+            "Average candle": "0.1644639116436402",
+            "Mean Absolute Error": "0.1659188202933985"
+        },
+        "Daily": {
+            "Average candle": "0.4423769923769923",
+            "Mean Absolute Error": "0.4697268244803708"
+        }
+    }
+}
